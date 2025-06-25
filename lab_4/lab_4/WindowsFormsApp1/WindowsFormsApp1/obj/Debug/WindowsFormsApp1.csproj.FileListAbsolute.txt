@@ -1,0 +1,62 @@
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Універ\2 курс\Обчислювальна практика\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Універ\2 курс\Не моє\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mykol\Downloads\Telegram Desktop\lab_4\lab_4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
